@@ -1,0 +1,10 @@
+Ordenação por inserção (InsertionSort)
+A idéia da ordenação por inserção é dividir os elementos em
+duas subestruturas, uma com os elementos já ordenados e
+outra com elementos ainda por ordenar.
+
+Ordenação por seleção (SelectionSort)
+A idéia da ordenação por seleção é procurar o menor
+elemento do vetor (ou maior) e movimentá-lo para a
+primeira (última) posição do vetor.
+Repetir para os n elementos do vetor
