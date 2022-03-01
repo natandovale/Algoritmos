@@ -1,3 +1,8 @@
+#ide's
+*.win
+*.dev
+*.layout
+
 # Compiled class file
 *.class
 
